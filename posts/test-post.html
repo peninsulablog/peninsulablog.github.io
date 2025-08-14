@@ -1,0 +1,85 @@
+<!-- You can ignore almost all this stuff at the top! It just tells the computer what this file is and what to do with it. -->
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Test Post</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="Test Post in Test Land" />
+    <link rel="stylesheet" href="../rar.css" />
+    <link rel="icon" href="../images/iberia.png" />
+  </head>
+  <body>
+    <header>
+      <div class="container" id="logo">
+        <img src="../images/iberia.jpg" alt="The Iberian Peninsula" />
+      </div>
+      <div id="title">
+        <p>
+          <strong
+            >Rebecca, Amanda and Rowland's blog on the Iberian Peninsula</strong
+          >
+        </p>
+        <nav>
+          <a href="../index.html">Home</a> <a href="../posts.html">Posts</a> <a href="../gallery.html">Gallery</a>
+        </nav>
+      </div>
+    </header>
+    <hr />
+    <!-- Below is where all of your writing will actually happen, in the main brackets. the p brackets are paragraphs and the img brackets are images. -->
+    <main>
+      <h1>Test Post of Rowland in Test Land!</h1>
+      <time datetime="2025-08-14">August 14th, 2025</time>
+      <p>Today I went to Test Land. In Test Land I experienced a bit of culture shock; instead of food, they eat strings of binary code (gross, right?) and for fun they shapeshift into different colors and sizes. I asked one of them where the bathroom was, and it said:</p>
+      <code><pre>
+["ERROR" - 11:39:15 AM] Error formatting document.
+["ERROR" - 11:39:15 AM] Unexpected character "&lt;" (36:7)
+  34 |         &lt;time datetime="2025-08-14"&gt;08/12/2025&lt;/time&gt;
+  35 |         &lt;p&gt;Rowland&lt;/p
+> 36 |       &lt;/article&gt;
+     |       ^
+  37 |       &lt;br /&gt;
+  38 |     &lt;/main&gt;
+  39 |     &lt;br /&gt;
+      </pre></code>
+      <p>Also, there wasn't much to see. The best view in Test Land was this weird rock formation:</p>
+      <!-- This is a figure. It allows you to add a caption to your image. In order to insert your own image, change the "helloworld.png" part after img src to your photo name, which should also be in the images folder. To change the caption, just change the text between the figcaption brackets. -->
+      <figure>
+        <img src="../images/helloworld.png" alt="A code snippet that says Hello World">
+        <figcaption>The best view in Test Land</figcaption>
+      </figure>
+      <p>
+        Anyway, I didn't have a great time in Test Land. I would rather have read a <a href="../posts.html">real blog post</a>, but beggers can't be choosers.
+      </p>
+      <p>
+        Thanks for reading my blog post!
+      </p>
+      <script src="https://utteranc.es/client.js"
+        repo="rowlandf/arr-blog"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </main>
+    <!-- You're all done! All the stuff below is the footer. -->
+    <br />
+    <footer>
+      <form>
+        <p>Sign up for email alerts!</p>
+        <p>
+          <label for="email">E-mail: </label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            required
+            cols="40"
+            rows="1"
+            value="Your e-mail here"
+          />
+        </p>
+        <p><button>Submit</button></p>
+      </form>
+    </footer>
+  </body>
+</html>
