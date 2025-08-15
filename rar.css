@@ -63,6 +63,7 @@ a {
 .gallerypage {
   display:flex;
   flex-wrap:wrap;
+}
   
 figure .gallery {
   max-width:50%;
