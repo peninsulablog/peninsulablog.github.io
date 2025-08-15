@@ -64,8 +64,8 @@ a {
   display:flex;
   flex-wrap:wrap;
 .gallery {
-  max-width:50%
-  max-height:100%
+  max-width:50%;
+  max-height:100%;
 }
 .gallery img {
   display:block;
