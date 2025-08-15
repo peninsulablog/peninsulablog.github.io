@@ -3,10 +3,10 @@
 <html lang="en-US">
   <head>
     <!-- Change the space within <title> <title> to match the title of your post -->
-    <title>Title Here</title>
+    <title>TITLE HERE</title>
     <meta charset="utf-8" />
     <!-- Change the space within content="" to match the description of your post -->
-    <meta name="description" content="Description Here" />
+    <meta name="description" content="DESCRIPTION HERE" />
     <link rel="stylesheet" href="../rar.css" />
     <link rel="icon" href="../images/iberia.png" />
   </head>
@@ -30,18 +30,18 @@
     <!-- Below is where all of your writing will actually happen-->
     <main>
       <!-- Change the area between <h1><h1> to the title of your blog -->
-      <h1>Title Here</h1>
-      <!-- This is the date of your post. In the quotes of datetime="" put your date in year-month-day (ex. 2001-01-01). Then, between the ><, put how you want the date to appear -->
-      <time datetime="year-mo-da">Date Here</time>
+      <h1>TITLE HERE</h1>
+      <!-- This is the date of your post. In the quotes of datetime="" put your date in year-month-day (ex. 2001-01-01). Then, between the ><, put the date in month/day/year -->
+      <time datetime="year-mo-da">mo/da/year</time>
       <!-- This is where you write the content of your blog! Every time you want a new paragraph, put it in between <p><p>. -->
-      <p>Paragraph 1</p>
-      <p>Paragraph 2</p>
+      <p>PARAGRAPH 1</p>
+      <p>PARAGRAPH 2</p>
       <!-- This is a figure. It allows you to put a caption on an image -->
       <figure class="container">
         <!-- The <img><img> is the image file. In src="../images/" put the image name. In alt="" put a description. Between <figcaption><figcaption> put the image caption -->
-        <img src="../images/IMAGENAME" alt="Image Description">
+        <img src="../images/IMAGENAME" alt="IMAGE DESCRIPTION">
         <hr />
-        <figcaption>Caption Here</figcaption>
+        <figcaption>CAPTION HERE</figcaption>
       </figure>
       <!-- Order everything as you please! Add new paragraphs and images however much you want. Good luck! -->
       <!-- Everything below here you can ignore. -->
@@ -53,7 +53,6 @@
         async>
       </script>
     </main>
-    <!-- You're all done! All the stuff below is the footer. -->
     <br />
     <footer>
       <form>
