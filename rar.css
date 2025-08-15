@@ -65,11 +65,10 @@ a {
   flex-wrap:wrap;
 }
 .gallery img {
-  max-width: 50%;
+  max-width: 100%;
   max-height: 100%;
   min-width: 15%;
   min-height: 15%;
-  display: block;
   height: auto;
   width: auto;
   border: rgb(115, 28, 28) solid 5px;
