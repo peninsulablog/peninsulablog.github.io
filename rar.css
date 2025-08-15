@@ -70,8 +70,8 @@ figure .gallery {
 }
 .gallery img {
   display:block;
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
   border: rgb(115, 28, 28) solid 5px;
 }
 .utterances {
