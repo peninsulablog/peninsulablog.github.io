@@ -1,6 +1,6 @@
 <figure class="gallery">
-  <!-- In src="../images/" put the image file name. In alt="" put a description of the image. -->
-  <img src="images/rowland.JPG" alt="Rowland holding a skeleton" />
+  <!-- In src="images/" put the image file name. In alt="" put a description of the image. -->
+  <img src="images/FILE NAME" alt="IMAGE DESCRIPTION HERE" />
   <!-- Between <figcaption><figcaption> put the image caption -->
-  <figcaption>Catch 'n Eat |<time datetime="2025-08-15">08/15/2025</time></figcaption>
+  <figcaption>CAPTION HERE|<time datetime="year-mo-da">mo/da/year</time></figcaption>
 </figure>
