@@ -65,7 +65,7 @@ a {
   flex-wrap: wrap;
 }
 
-figure {
+figure .gallery {
   max-width: 43%;
   max-height: 100%;
 }
