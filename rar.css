@@ -62,6 +62,7 @@ a {
 }
 .gallerypage {
   display:flex;
+  flexwrap:wrap;
 }
 .gallery img {
   max-width: 100%;
