@@ -37,7 +37,7 @@ footer {
   margin-top: 5px;
 }
 
-figure.container {
+.container {
   border: rgb(115, 28, 28) 5px solid;
   width: 33%;
   background-color: rgb(212, 165, 165);
