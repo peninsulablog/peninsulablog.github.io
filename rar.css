@@ -81,4 +81,7 @@ figcaption {
   text-align: center;
 }
 figure hr {
+  margin: 0 0 9px 0;
   color: rgb(115, 28, 28);
+header+hr {
+  margin: 0 0 9px 0;
