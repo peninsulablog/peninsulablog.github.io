@@ -12,4 +12,6 @@ To post a new image in the gallery, do exactly the above except with the templat
 
 If you want to add new and exciting elements to your blog post, like lists and block quotes, let me know and I'd be happy to show you how. If you want to change how something looks, which would happen in the css file, let me know and we'll figure it out.
 
+Finally, to let people know when the blog post has been published, send an e-mail out from the peninsulasquad@gmail.com google account. If you type in "peninsulablog" in the recipients box, it should auto-add everyone on the list.
+
 Good luck!
