@@ -33,7 +33,7 @@ a:hover {
 }
 footer {
   background-color: rgb(175, 190, 154);
-  padding: 15px;
+  padding: 5px;
 }
 .container img {
   height: 100%;
@@ -43,7 +43,6 @@ footer {
   border: rgb(115, 28, 28) 5px solid;
   width: 33%;
   background-color: rgb(212, 165, 165);
-  margin: 0 0 0 0;
 }
 .photos {
   display: flex;
