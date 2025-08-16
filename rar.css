@@ -35,23 +35,22 @@ footer {
   background-color: rgb(175, 190, 154);
   padding: 5px;
 }
+
+figure.container {
+  border: rgb(115, 28, 28) 5px solid;
+  width: 33%;
+  background-color: rgb(212, 165, 165);
+  margin: 0 0 0 0;
+}
 .container img {
   height: 100%;
   width: 100%;
 }
-.container {
-  border: rgb(115, 28, 28) 5px solid;
-  width: 33%;
-  background-color: rgb(212, 165, 165);
-}
+
 .photos {
   display: flex;
 }
-figcaption {
-  text-align: center;
-}
-figure hr {
-  color: rgb(115, 28, 28);
+
 }
 article {
   line-height: 0.25;
@@ -76,6 +75,9 @@ figure.gallery {
   height: auto;
   border: rgb(115, 28, 28) solid 5px;
 }
-.utterances {
-}
 
+figcaption {
+  text-align: center;
+}
+figure hr {
+  color: rgb(115, 28, 28);
