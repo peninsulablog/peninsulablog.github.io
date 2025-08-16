@@ -22,6 +22,7 @@ header nav {
 }
 #logo {
   width: 10%;
+  height: auto;
   border: rgb(115, 28, 28) 5px solid;
 }
 nav a {
