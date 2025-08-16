@@ -1,0 +1,77 @@
+<!-- All this stuff just tells the computer what this file is and what to do with it. -->
+<!DOCTYPE html>
+<html lang="en-US">
+  <Introduction>
+    <!-- Change the space within <title><title> to match the title of your post -->
+    <title>Let's go to Lisbon</title>
+    <meta charset="utf-8" />
+    <!-- Change the space within content="" to match the description of your post -->
+    <meta name="description" content="Let's go to Lisbon" />
+    <link rel="stylesheet" href="../rar.css" />
+    <link rel="icon" href="../images/iberia.png" />
+  </head>
+  <body>
+    <header>
+      <div class="container" id="logo">
+        <img src="../images/iberia.jpg" alt="The Iberian Peninsula" />
+      </div>
+      <div id="title">
+        <p>
+          <strong
+            >Rebecca, Amanda and Rowland's blog on the Iberian Peninsula</strong
+          >
+        </p>
+        <nav>
+          <a href="../index.html">Home</a> <a href="../posts.html">Posts</a> <a href="../gallery.html">Gallery</a>
+        </nav>
+      </div>
+    </header>
+    <hr />
+    <!-- Below is where all of your writing will actually happen-->
+    <main>
+      <!-- Change the area between <h1><h1> to the title of your blog -->
+      <h1>Introduction to my Semester Away</h1>
+      <!-- This is the date of your post. In the quotes of datetime="" put your date in year-month-day (ex. 2001-01-01). Then, between the ><, put how you want the date to appear -->
+      <time datetime="2025-08-16">August 16, 2025</time>
+      <!-- This is where you write the content of your blog! Every time you want a new paragraph, put it in between <p><p>. -->
+      <p>Hello travelers! My name is Rebecca, and I am an environmental arts and humanities major at Sewanee, entering my junior year. Thanks to the Sewanee pledge, I have the opportunity to study Environmental Justice and Sustainability in Lisbon, Portugal this fall with SIT (in 16 days from now). The universe is really on my side this year, seeing as on December 16th I also have the pleasure of joining two Sewanee professors and many peers on a two week trip to New Zealand with hopes to further my grasp of coastal studies. If I am able to, I will certainly use this established blog to clue my favorite travelers (you guys) in on that trip after the fact. I ask for forgiveness from those who notice that New Zealand is not on the Iberian Peninsula. </p>
+      <p>My plan is to write a lot and take a billion pictures on my waterproof Kodak Pixpro WPZ2! Expect to see a lot of art found on my travels/ inspired by my travels. Also, do not be surprised if my blog is flooded with pictures of every dog and creature that I encounter for the next four months. If you’re a student interested in or currently studying abroad, anyone interested in Portugal, or just part of my support system, this blog is definitely the place for you! Don’t be shy to sign up for email alerts. Here are some pictures from this summer that will give you a taste of my world:</p>
+      <!-- This is a figure. It allows you to put a caption on an image -->
+      <figure class="container">
+        <!-- The <img><img> is the image file. In src="../images/" put the image name. In alt="" put a description. Between <figcaption><figcaption> put the image caption -->
+        <img src="../images/0" alt="">
+        <hr />
+        <figcaption> </figcaption>
+      </figure>
+      <!-- Order everything as you please! Add new paragraphs and images however much you want. Good luck! -->
+      <!-- Everything below here you can ignore. -->
+<script src="https://utteranc.es/client.js"
+        repo="peninsulablog/peninsulablog.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+    </main>
+    <!-- You're all done! All the stuff below is the footer. -->
+    <br />
+    <footer>
+      <form>
+        <p>Sign up for email alerts!</p>
+        <p>
+          <label for="email">E-mail: </label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            required
+            cols="40"
+            rows="1"
+            value="Your e-mail here"
+          />
+        </p>
+        <p><button>Submit</button></p>
+      </form>
+    </footer>
+  </body>
+</html>
