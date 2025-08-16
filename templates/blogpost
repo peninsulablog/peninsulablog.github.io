@@ -55,22 +55,10 @@
     </main>
     <br />
     <footer>
-      <form>
-        <p>Sign up for email alerts!</p>
-        <p>
-          <label for="email">E-mail: </label>
-          <input
-            type="email"
-            id="email"
-            name="email"
-            required
-            cols="40"
-            rows="1"
-            value="Your e-mail here"
-          />
-        </p>
-        <p><button>Submit</button></p>
-      </form>
+      <p>Sign up for e-mail alerts!</p>
+      <p>E-mail us at <a href="mailto:peninsulasquad@gmail.com">peninsulasquad.com</a> to be added to our list.</p>
+      <p>You'll be notified whenever a new post comes up!</p>
+      <br>
     </footer>
   </body>
 </html>
