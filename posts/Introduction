@@ -39,9 +39,21 @@
       <!-- This is a figure. It allows you to put a caption on an image -->
       <figure class="container">
         <!-- The <img><img> is the image file. In src="../images/" put the image name. In alt="" put a description. Between <figcaption><figcaption> put the image caption -->
-        <img src="../images/0" alt="">
+        <img src="../images/100_0600.jpeg" alt="two seagulls">
         <hr />
-        <figcaption> </figcaption>
+        <figcaption>I spent hours trying to get a good gull picture on the beach, good enough!</figcaption>
+      </figure>
+      <figure class="container">
+        <!-- The <img><img> is the image file. In src="../images/" put the image name. In alt="" put a description. Between <figcaption><figcaption> put the image caption -->
+        <img src="../images/100_0072.jpeg" alt="dog and ownder">
+        <hr />
+        <figcaption>practice for the sneaky dog pictures I plan on taking in Europe</figcaption>
+      </figure>
+      <figure class="container">
+        <!-- The <img><img> is the image file. In src="../images/" put the image name. In alt="" put a description. Between <figcaption><figcaption> put the image caption -->
+        <img src="../images/100_0215.jpeg" alt="beach sunset">
+        <hr />
+        <figcaption>watched this sunset while thinking about my summer beach read, what would Paul from think of this sunset?</figcaption>
       </figure>
       <!-- Order everything as you please! Add new paragraphs and images however much you want. Good luck! -->
       <!-- Everything below here you can ignore. -->
