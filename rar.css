@@ -43,6 +43,7 @@ footer {
   border: rgb(115, 28, 28) 5px solid;
   width: 33%;
   background-color: rgb(212, 165, 165);
+  margin: 0 0 0 0;
 }
 .photos {
   display: flex;
