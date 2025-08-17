@@ -40,9 +40,9 @@
         <img src="../images/IMAGENAME" alt="IMAGE DESCRIPTION">
         <hr />
         <figcaption>CAPTION HERE</figcaption>
-      </figure>
-      <!-- Order everything as you please! Add new paragraphs and images however much you want. Good luck! -->
-      <!-- Everything below here you can ignore. Feel free to copy elements or delete elements or anything else! -->
+      </figure class="blog">
+      <!-- Order everything as you please! Add new paragraphs and images however much you want, just copy and paste the element. Good luck! -->
+      <!-- Everything below here you can ignore. -->
       <script src="https://utteranc.es/client.js"
         repo="peninsulablog/peninsulablog.github.io"
         issue-term="pathname"
