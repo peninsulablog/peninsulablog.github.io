@@ -35,14 +35,14 @@
       <p>PARAGRAPH 1</p>
       <p>PARAGRAPH 2</p>
       <!-- This is a figure. It allows you to put a caption on an image -->
-      <figure class="container">
+      <figure class="blog">
         <!-- The <img><img> is the image file. In src="../images/" put the image name. In alt="" put a description. Between <figcaption><figcaption> put the image caption -->
         <img src="../images/IMAGENAME" alt="IMAGE DESCRIPTION">
         <hr />
         <figcaption>CAPTION HERE</figcaption>
       </figure>
       <!-- Order everything as you please! Add new paragraphs and images however much you want. Good luck! -->
-      <!-- Everything below here you can ignore. -->
+      <!-- Everything below here you can ignore. Feel free to copy elements or delete elements or anything else! -->
       <script src="https://utteranc.es/client.js"
         repo="peninsulablog/peninsulablog.github.io"
         issue-term="pathname"
