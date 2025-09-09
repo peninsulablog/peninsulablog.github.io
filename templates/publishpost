@@ -3,7 +3,7 @@
   <p><a href="posts/FILENAME">POST TITLE</a></p>
   <!-- in datetime="", put the date of the post in year-month-day order (ex. 2001-01-01) -->
   <!-- between ><, put the date in month/day/year order! -->
-  <time datetime="year-mo-da">mo/da/year</3:12>
+  <time datetime="year-mo-da">mo/da/year</time>
   <!-- in between <p><p>, put who wrote it -->
   <p>by AUTHOR</p>
   <br />
