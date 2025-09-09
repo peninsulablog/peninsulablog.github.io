@@ -79,8 +79,8 @@ figure.gallery {
 }
 
 figure.blog {
-  max-width: 50vh;
-  max-height: 75vh;
+  max-width: 100vh;
+  max-height: 100vh;
 }
 
 .blog img {
