@@ -81,6 +81,7 @@ figure.gallery {
 figure.blog {
   max-width: 100vh;
   max-height: 100vh;
+  margin: auto;
 }
 
 .blog img {
