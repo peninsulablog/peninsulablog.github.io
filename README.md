@@ -8,7 +8,7 @@ To make a new blog post, first upload all of the images you'll want in your blog
 
 To publish your new post, you'll have to edit the posts.html file. First, copy the template "publishpost" file, then paste it below the note that says to paste. Follow the instructions on the notes. Once it's been copied and updated, commit changes and give the website a few minutes!
 
-To post a new image in the gallery, do exactly the above except with the template "gallerypost" file and in the gallery.html file. 
+To post a new image in the gallery, do exactly the above except with the template "gallerypost" file and in the gallery.html file. Make sure to paste the template as many times as you have images.
 
 If you want to add new and exciting elements to your blog post, like lists and block quotes, let me know and I'd be happy to show you how. If you want to change how something looks, which would happen in the css file, let me know and we'll figure it out.
 
